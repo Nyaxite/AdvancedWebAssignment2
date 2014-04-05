@@ -1,4 +1,11 @@
 <?php
+/*
+	File Name:		checklogin.php
+	Author Name: 	Michael Burnie
+	Website: 		www.michaelburnie.com
+	Description: 	The user should not see this page as its only function is to check the login credentials and secure the form from SQL injection.
+*/
+
 	//call the header php file
 	require_once "header.php";
 

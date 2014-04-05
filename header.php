@@ -1,3 +1,10 @@
+<!--
+	File Name:		header.php
+	Author Name: 	Michael Burnie
+	Website: 		www.michaelburnie.com
+	Description: 	This is the header that will appear on all required pages, making the database calls and calling the required CSS/JS files.
+-->
+
 <html>
 	<head>
 		<meta name="description" content="A site about Michael Burnie."/>

@@ -1,4 +1,11 @@
 <?php
+/*
+	File Name:		login.php
+	Author Name: 	Michael Burnie
+	Website: 		www.michaelburnie.com
+	Description: 	This is the form that the user will login to see the business contacts. Information is sent to checklogin.php
+*/
+
 	//call the header php file
 	require_once "header.php";
 ?>
